@@ -42,7 +42,7 @@ Bridge rectifier with filter:
 ![output](wave1.2.png)
 TABULAR COLUMN
 Rectifier without filter
-![output](w1.jpeg)
+![output](w.jpeg)
 TABULAR COLUMN
 Rectifier with filter
 ![output](w2.jpeg)
