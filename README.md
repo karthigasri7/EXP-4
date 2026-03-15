@@ -47,6 +47,7 @@ TABULAR COLUMN
 Rectifier with filter
 ![output](w2.jpeg)
 WAVEFORM:
+
 ![output](wave1.jpeg)
 ![output](wave2.jpeg)
 
